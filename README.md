@@ -8,7 +8,7 @@ As we developed the project we began to realize there are many applications for 
 
 ## Build status
 **Heroku App**  
-This app has been deployed to [Heroku here](https://dispatch-app-front.herokuapp.com/). Please see the login instructions on the web application to view login information.
+This app has been deployed to [Heroku here](https://dispatch-frontend.herokuapp.com/). Please see the login instructions on the web application to view login information.
 
 ## Screenshots
 ![logo](/public/dispatch.jpg?raw=true "screenshot")
@@ -16,7 +16,7 @@ This app has been deployed to [Heroku here](https://dispatch-app-front.herokuapp
 ## Tech framework used
 Built with:
 * [React Javascript](https://reactjs.org/)
-* [Ruby on Rails backed API](https://github.com/hoobie4792/dispatch-backend/)
+* [Ruby on Rails backed API](https://github.com/rpdecks/dispatch-backend/)
 * [Postgresql](https://www.postgresql.org/)
 * [Mapbox API](https://docs.mapbox.com/mapbox-gl-js/api/)
 * [Material UI](https://material-ui.com/)
@@ -42,5 +42,5 @@ The backend install steps require the following on your system
 3. Run yarn in the terminal to install required node modules.
 4. Run yarn start to start the frontend server.
 
-**Note:** The backend software must be downloaded and running as well. See the backend project [here | Dispatch-backend](https://github.com/hoobie4792/dispatch-backend).
+**Note:** The backend software must be downloaded and running as well. See the backend project [here | Dispatch-backend](https://github.com/rpdecks/dispatch-backend).
 
